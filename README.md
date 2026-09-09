@@ -1,8 +1,8 @@
 Practical 3: Mobile Application Development
 Project Details
 
-    Student Name: Raju Kumar Sah
-    Enrollment No: 24012011221
+    Student Name: Patel Prem
+    Enrollment No: 25172022058
     Subject: Mobile Application Development (MAD)
     Practical Number: 3
 
