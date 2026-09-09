@@ -41,8 +41,4 @@ How to Run
     Sync the project with Gradle files.
     Run the app on an Emulator or a Physical Device.
 
-Screenshots
-
-(Add your screenshots here for the practical file)
-
 Created as part of the MAD Course Practical Curriculum.
